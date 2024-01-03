@@ -11,7 +11,7 @@ Find out more about me & feel free to connect with me here:
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Corey%20Ducre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/corey-ducre)](https://www.linkedin.com/in/corey-ducre)
-[![Medium Badge](https://img.shields.io/badge/Corey%20Ducre-12100E?style=flat-square&logo=medium&logoColor=white&link=[https://medium.com/@corey-ducre])
+[![Medium Badge](https://img.shields.io/badge/Corey%20Ducre-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@corey-ducre)](https://medium.com/@corey-ducre)
 [![Gmail Badge](https://img.shields.io/badge/-xabieredesigns@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xabieredesigns@gmail.com)](mailto:xabieredesigns@gmail.com)
 
 ## ⚡ Technologies
