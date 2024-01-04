@@ -2,7 +2,7 @@
 
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
-### Hello there 👋🏾
+### Greetings 👋🏾
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
