@@ -2,7 +2,7 @@
 
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
-### Greetings i'm Corey Ducre welcome to my GitHub account👋🏾
+### Greetings cloud enthusiasts i'm Corey Ducre welcome to my GitHub account👋🏾
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
