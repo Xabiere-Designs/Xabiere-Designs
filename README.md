@@ -5,7 +5,7 @@
 ### Hello cloud enthusiasts i'm Corey Ducre welcome to my GitHub account!👋🏾
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-A little bit about me...
+Here's a little bit about me...
 
 Find out more about me and feel free to connect with me here:
 
