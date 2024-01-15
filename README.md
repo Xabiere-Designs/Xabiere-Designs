@@ -2,10 +2,10 @@
 
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
-### Hello cloud enthusiasts i'm Corey Ducre welcome to my GitHub account!👋🏾
+### Hello fellow cloud enthusiasts! I'm Corey Ducre, and I'm thrilled to welcome you to my GitHub account. 👋🏾 
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-Here's a little bit about me...
+Here's a sneak peek into who I am...
 
 Find out more about me and feel free to connect with me here:
 
