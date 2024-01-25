@@ -2,7 +2,7 @@
 
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
-### Greetings fellow cloud enthusiasts! I'm Corey Ducre, and I'm thrilled to welcome you to my GitHub account. 👋🏾 
+### Greetings fellow cloud enthusiasts! I'm Corey Ducre, and I'm thrilled to welcome you to my GitHub account. 👋🏾 I'm currently preparing for the AWS CDA exam!
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 Here is a sneak peek into who I am and what I'm currently working on,
