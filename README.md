@@ -6,7 +6,7 @@
  and I'm thrilled to welcome you to my GitHub account. 👋🏾 
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-Here is a sneak peek into who I am, and what I'm currently working on exploring Kubernetes ingress controller,
+Here is a sneak peek into who I am, and what I'm currently working on exploring Kubernetes and ArgoCD,
 
 Find out more about me and feel free to connect with me here:
 
